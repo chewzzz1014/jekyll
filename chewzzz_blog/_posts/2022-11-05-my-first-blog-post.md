@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: ( ͡° ͜ʖ ͡°)
 date: 2022-11-05
 categories: jekyll emoji

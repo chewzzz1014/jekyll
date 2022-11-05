@@ -28,3 +28,23 @@ jekyll serve
 ```
 jekyll serve --draft
 ```
+
+
+## Use other theme
+1. Search for theme
+2. Put in Gemfile
+
+    ```
+    gem "package-name-here"
+    ```
+3. Use command 
+
+    ```
+    bundle install
+    ```
+4. Change theme in _config.yml
+5. Rerun server using
+
+    ```
+    bundle exec jekyll serve
+    ```
