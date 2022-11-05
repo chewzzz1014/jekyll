@@ -21,3 +21,10 @@ jekyll new [blog name]
 ```
 jekyll serve
 ```
+
+## To show draft on website too
+
+- Build website for post and website
+```
+jekyll serve --draft
+```
